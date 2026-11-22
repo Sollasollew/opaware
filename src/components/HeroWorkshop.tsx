@@ -27,7 +27,13 @@ export function HeroWorkshop() {
         </pattern>
         <linearGradient id="readability" x1="0" y1="0" x2="0" y2="1">
           <stop offset="0%" stopColor="#1a120a" stopOpacity="0" />
-          <stop offset="100%" stopColor="#1a120a" stopOpacity="0.75" />
+          <stop offset="55%" stopColor="#1a120a" stopOpacity="0.45" />
+          <stop offset="100%" stopColor="#1a120a" stopOpacity="0.82" />
+        </linearGradient>
+        <linearGradient id="typeLane" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%" stopColor="#0f0a06" stopOpacity="0.55" />
+          <stop offset="55%" stopColor="#0f0a06" stopOpacity="0.2" />
+          <stop offset="100%" stopColor="#0f0a06" stopOpacity="0" />
         </linearGradient>
       </defs>
 
@@ -117,16 +123,9 @@ export function HeroWorkshop() {
         <rect y="34" width="100" height="10" fill="#c4a35a" />
       </g>
 
-      {/* Soft vignette toward bottom for type readability */}
-      <rect
-        x="0"
-        y="520"
-        width="1440"
-        height="380"
-        fill="url(#workshopWall)"
-        opacity="0.55"
-      />
-      <rect x="0" y="480" width="1440" height="420" fill="url(#readability)" />
+      {/* Soft vignettes — no hard shelf-cut through the wordmark */}
+      <rect x="0" y="360" width="1440" height="540" fill="url(#readability)" />
+      <rect x="0" y="240" width="820" height="660" fill="url(#typeLane)" />
     </svg>
   );
 }

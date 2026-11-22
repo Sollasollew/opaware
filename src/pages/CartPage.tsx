@@ -24,7 +24,7 @@ export function CartPage() {
             <h2>Thanks{name ? `, ${name}` : ''}.</h2>
             <p>
               This is a demo checkout — no payment taken, no elves dispatched.
-              In a real Opaware shop, your crate would be packed under workshop
+              In a real OpaWare shop, your crate would be packed under workshop
               lamps and stamped READY FOR MISCHIEF.
             </p>
             <Link className="btn btn-primary" to="/catalog">

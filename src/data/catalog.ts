@@ -137,7 +137,7 @@ export const products: Product[] = [
     category: 'science',
     blurb: 'It is a volcano. We just prefer plausible deniability on the label.',
     story:
-      'Baking-soda geology with three eruption modes scratched into the lid: polite burp, dramatic fountain, backyard legend. Tray included. Carpet formally uninvited. Adam-Savage-adjacent notes in the margin.',
+      'Baking-soda geology with three eruption modes scratched into the lid: polite burp, dramatic fountain, backyard legend. Tray included. Carpet formally uninvited. Scratch notes in the margin from whoever last lit the fuse.',
     mischiefLevel: 4,
     ages: '6+',
     hue: '#3E6B4F',

@@ -5,11 +5,11 @@ export function StoryPage() {
     <div className="bag-page">
       <div className="wrap" style={{ maxWidth: '44rem' }}>
         <p className="crumb">
-          <Link to="/">Opaware</Link> / Our Story
+          <Link to="/">OpaWare</Link> / Our Story
         </p>
         <h1>A workshop with a sense of humor</h1>
         <p className="lead">
-          Opaware is for grandparents who still believe the best gifts are
+          OpaWare is for grandparents who still believe the best gifts are
           built, not bought in a hurry — and for grandkids who know which adult
           keeps the interesting drawers unlocked.
         </p>
@@ -22,11 +22,11 @@ export function StoryPage() {
             designed it, it does not leave the bench.
           </p>
 
-          <h2>Maker curiosity (on purpose)</h2>
+          <h2>Labeled drawers (on purpose)</h2>
           <p>
-            We keep Adam Savage in the secondary — labeled drawers, prototypes,
-            “tested on grandkids,” and the quiet thrill of figuring out how the
-            thing works before you make it louder.
+            Prototypes, “tested on grandkids,” and the quiet thrill of figuring
+            out how the thing works before you make it louder. Curiosity lives
+            on the bench, not in a brochure.
           </p>
 
           <h2>Generous without the kitsch</h2>

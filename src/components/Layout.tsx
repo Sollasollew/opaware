@@ -10,8 +10,8 @@ export function Layout() {
         Skip to stuff
       </a>
       <header className="topbar">
-        <Link to="/" className="topbar-brand" aria-label="Opaware home">
-          Opaware
+        <Link to="/" className="topbar-brand" aria-label="OpaWare home">
+          OpaWare
         </Link>
         <nav className="topbar-nav" aria-label="Primary">
           <NavLink to="/catalog">Catalog</NavLink>
@@ -31,7 +31,7 @@ export function Layout() {
       </main>
       <footer className="site-footer">
         <div className="footer-brand">
-          <p className="footer-wordmark">Opaware</p>
+          <p className="footer-wordmark">OpaWare</p>
           <p>
             Handmade workshop stock for grandparents and the co-conspirators
             they love. Built under the lamp, labeled on purpose.

@@ -30,7 +30,7 @@ export function ProductPage() {
     <div className="detail">
       <div className="wrap">
         <p className="crumb">
-          <Link to="/">Opaware</Link> /{' '}
+          <Link to="/">OpaWare</Link> /{' '}
           <Link to={`/catalog/${product.category}`}>{cat?.name}</Link> /{' '}
           {product.name}
         </p>
