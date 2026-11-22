@@ -12,12 +12,12 @@ const featured = products.filter((p) =>
 export function HomePage() {
   return (
     <>
-      <section className="hero" aria-label="Opaware hero">
+      <section className="hero" aria-label="OpaWare hero">
         <div className="hero-visual">
           <HeroWorkshop />
         </div>
         <div className="hero-content">
-          <p className="hero-brand">Opaware</p>
+          <p className="hero-brand">OpaWare</p>
           <h1 className="hero-headline">
             Handmade mischief from a proper workshop.
           </h1>
@@ -92,7 +92,7 @@ export function HomePage() {
           <div className="story-copy">
             <h2 id="story-heading">Built, not bought off a fluorescent aisle</h2>
             <p>
-              Opaware is a rugged little toyshop for grandparents who prefer
+              OpaWare is a rugged little toyshop for grandparents who prefer
               handmade mischief over plastic promises. Dry humor on the crate.
               Maker notes in the margins. Generosity without the kitsch.
             </p>

@@ -1,6 +1,6 @@
-# Opaware
+# OpaWare
 
-Mad toyshop gift catalog for grandparents and grandkids — workshop warmth, wry humor, maker curiosity.
+Mad toyshop gift catalog for grandparents and grandkids — workshop warmth, wry humor, handmade curiosity.
 
 ## Run locally
 

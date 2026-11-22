@@ -19,7 +19,7 @@ export function CatalogPage() {
     <div className="catalog-page">
       <div className="wrap">
         <p className="crumb">
-          <Link to="/">Opaware</Link> / Catalog
+          <Link to="/">OpaWare</Link> / Catalog
           {active ? ` / ${active.name}` : ''}
         </p>
         <h1>{active ? active.name : 'The whole stockroom'}</h1>
