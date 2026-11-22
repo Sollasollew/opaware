@@ -19,15 +19,15 @@ export function HomePage() {
         <div className="hero-content">
           <p className="hero-brand">Opaware</p>
           <h1 className="hero-headline">
-            The mad toyshop grandparents stock for grandkids.
+            Handmade mischief from a proper workshop.
           </h1>
           <p className="hero-support">
-            Handmade mischief, labeled drawers, and gifts tested on the
-            bravest small humans we know.
+            Wry gifts built under sawdust light — labeled drawers, dry humor,
+            and a few things we definitely tested on grandkids.
           </p>
           <div className="cta-row">
             <Link className="btn btn-primary" to="/catalog">
-              Browse the stockroom
+              Browse the workshop
             </Link>
             <Link className="btn btn-ghost" to="/story">
               How we build
@@ -41,8 +41,8 @@ export function HomePage() {
           <div className="section-head">
             <h2 id="cats-heading">Open a drawer</h2>
             <p>
-              Every aisle is a little conspiracy between wonder and wry common
-              sense.
+              Categories the way a woodshop keeps its hardware — labeled,
+              slightly opinionated, and not for fluorescent aisles.
             </p>
           </div>
           <div className="category-rail">
@@ -73,7 +73,8 @@ export function HomePage() {
           <div className="section-head">
             <h2 id="feat-heading">Bench favorites</h2>
             <p>
-              Prototypes that survived the workshop lamps — and a few grandkids.
+              Things that earned a permanent spot under the lamp — rugged,
+              a little mischievous, still standing after grandkid field trials.
             </p>
           </div>
         </div>
@@ -91,9 +92,9 @@ export function HomePage() {
           <div className="story-copy">
             <h2 id="story-heading">Built, not bought off a fluorescent aisle</h2>
             <p>
-              Opaware is a stockroom for generous troublemakers — part Offerman
-              woodshop grit, part Savage curiosity, part Santa’s improbable
-              inventory. We label the drawers. You supply the grandchildren.
+              Opaware is a rugged little toyshop for grandparents who prefer
+              handmade mischief over plastic promises. Dry humor on the crate.
+              Maker notes in the margins. Generosity without the kitsch.
             </p>
             <Link className="btn btn-primary" to="/story">
               Read the workshop story

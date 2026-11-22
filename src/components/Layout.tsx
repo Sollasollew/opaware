@@ -33,8 +33,8 @@ export function Layout() {
         <div className="footer-brand">
           <p className="footer-wordmark">Opaware</p>
           <p>
-            Mad toyshop stock for grandparents and the co-conspirators they
-            love. Built under workshop lamps.
+            Handmade workshop stock for grandparents and the co-conspirators
+            they love. Built under the lamp, labeled on purpose.
           </p>
         </div>
         <div className="footer-meta">

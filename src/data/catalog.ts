@@ -109,7 +109,7 @@ export const products: Product[] = [
     category: 'parents-hate',
     blurb: 'Soft-burst shimmer launcher. Parents will find glitter in July.',
     story:
-      'Plant-based sparkle, leather strap, brass trigger. We stamped the crate TESTED ON GRANDKIDS — RESULTS: SPARKLY. Washable eventually. Magical immediately.',
+      'Plant-based sparkle, leather strap, brass trigger. Crate stamped TESTED ON GRANDKIDS — RESULTS: SPARKLY. Washable eventually. Delightfully inconvenient forever.',
     mischiefLevel: 5,
     ages: '6+',
     hue: '#8C3B2A',
@@ -123,7 +123,7 @@ export const products: Product[] = [
     category: 'parents-hate',
     blurb: 'Secret recipes, tiny aprons, and a tin stamped DON’T TELL MOM.',
     story:
-      'After-hours baking kit with crumb maps and a laminated alibi card. Feels like Santa’s private stockroom met a wry woodworker who believes cookies are infrastructure.',
+      'After-hours baking kit with crumb maps and a laminated alibi card. Built by someone who believes cookies are infrastructure and bedtimes are suggestions.',
     mischiefLevel: 3,
     ages: '4+',
     hue: '#6B4423',
@@ -235,7 +235,7 @@ export const products: Product[] = [
     category: 'quiet',
     blurb: 'Warm workshop glow for chapter books and whispered cliffhangers.',
     story:
-      'Three dim settings, brass trim, leather loop. Makes every page feel like reading in Santa’s private workshop after closing time.',
+      'Three dim settings, brass trim, leather loop. Makes every page feel like reading at the bench after the tools are put away.',
     mischiefLevel: 1,
     ages: '4+',
     hue: '#5C6B7A',
